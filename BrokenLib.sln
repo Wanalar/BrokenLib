@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokenLib", "BrokenLib\BrokenLib.csproj", "{9B094955-9A72-4CF8-8A44-48C1CBE0B6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B094955-9A72-4CF8-8A44-48C1CBE0B6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B094955-9A72-4CF8-8A44-48C1CBE0B6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B094955-9A72-4CF8-8A44-48C1CBE0B6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B094955-9A72-4CF8-8A44-48C1CBE0B6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CD5BBA3-AA44-4536-A6C3-B94F2C00F32F}
+	EndGlobalSection
+EndGlobal
